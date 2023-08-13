@@ -350,7 +350,7 @@ const botafogo = {
 }
 
 const corinthians = {
-  logo: '<img src="assets/clubes/Corinthians.png" alt=""></img>',
+  logo: '<img src="assets/clubes/corinthians.png" alt=""></img>',
   nome: 'Corinthians',
   country: brasil,
   star: threeHalfStar,
