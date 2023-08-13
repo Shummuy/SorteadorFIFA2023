@@ -16,9 +16,9 @@ Existem 50 times cadastrados no total, cada time é um objeto, tendo no seu inte
 Eles estão distribuidos em quatro grupos sendo os seguintes times em cada grupo.
 </div>
 
-<div width=100px align="center" style="background-color: white">
+<div width=100px align="center">
 
-<div style="color: black">
+<div style="color: white">
 
 <h1>TIER A<h1>
 
@@ -66,7 +66,7 @@ Eles estão distribuidos em quatro grupos sendo os seguintes times em cada grupo
 <img height="50px" src="assets/clubes/atleticomg.png">
 <img height="50px" src="assets/clubes/bahia.png">
 <img height="50px" src="assets/clubes/botafogo.png">
-<img height="50px" src="assets/clubes/Corinthians.png">
+<img height="50px" src="assets/clubes/corinthians.png">
 <img height="50px" src="assets/clubes/coritiba.png">
 <img height="50px" src="assets/clubes/cruzeiro.png">
 <img height="50px" src="assets/clubes/cuiaba.png">
@@ -89,7 +89,6 @@ Eles estão distribuidos em quatro grupos sendo os seguintes times em cada grupo
 
 # Funcionalidade
 
-No site temos 4 times de sorteio, sendo eles.
 
 - Tier A (Sorteio entre os times do grupo A)
 - Tier B (Sorteio entre os times do grupo B)
